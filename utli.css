@@ -1,0 +1,30 @@
+.flex{
+    display: flex;
+}
+.block{
+    display: block;
+}
+.item-center{
+    align-items: center;
+}
+.justify-center {
+    justify-content: center;
+}
+.space-between{
+    justify-content: space-between;
+}
+.bolder{
+    font-weight: bolder;
+}
+/*  margin - between */
+.mb-2{                         
+    margin-left: 12px;
+   
+}
+.height{
+    padding-top: 20vh;
+    padding-bottom: 20vh;
+}
+.flex-wrap{
+    flex-wrap: wrap;
+}
